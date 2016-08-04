@@ -1,14 +1,3 @@
-### sort-fn
-> Generates sort function for Array object
-
-#### Install
-
-```sh
-$ npm install sort-fn --save
-```
-
-#### Usage
-```js
 var sortFn = require('./')
 
 var arr = [
@@ -40,4 +29,3 @@ var arr = [
 ]
 
 console.log(arr.sort(sortFn('name asc,age desc,salary desc')))
-```

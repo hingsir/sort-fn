@@ -1,0 +1,23 @@
+{
+  "name": "sort-fn",
+  "version": "1.0.0",
+  "description": "\u001b[2~Generates sort function for Array object",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hingsir/sort-fn.git"
+  },
+  "keywords": [
+    "sort",
+    "comparator"
+  ],
+  "author": "hingsir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hingsir/sort-fn/issues"
+  },
+  "homepage": "https://github.com/hingsir/sort-fn#readme"
+}
