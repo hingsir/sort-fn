@@ -1,6 +1,6 @@
 {
   "name": "sort-fn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\u001b[2~Generates sort function for Array object",
   "main": "index.js",
   "scripts": {
